@@ -1,0 +1,18 @@
+#category{
+color: aqua;
+}
+#description{
+    color: chartreuse;
+}
+#rate{
+    font-size: 40px;
+}
+
+#count{
+    font-size: 80px;
+}
+
+button{
+    width: 20px;
+    height: 20px;
+}
